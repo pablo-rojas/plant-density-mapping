@@ -1,3 +1,3 @@
 # Plant Density Mapping
 
-When connected to the dron run the script run.py
+When connected to the drone run the script run.py.
